@@ -1,0 +1,11 @@
+{
+  "name": "fetchrender",
+  "version": "1.0.0",
+  "description": "Fetch and Render MIT sudies\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ctudies",
+  "main": "getdata4.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LP",
+  "license": "ISC"
+}
